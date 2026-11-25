@@ -1,12 +1,12 @@
 ## Hi there 👋
-### 👋 Привет, я xatozz
+### 👋 Hi, I'm xatozz
 
-Делаю полезные утилиты для Windows, Telegram-ботов и небольшие браузерные игры. Экспериментирую с локальными нейросетями и генерацией графики.
+Building useful Windows utilities, Telegram bots, and browser games. Experimenting with local AI models and generative graphics.
 
-**Чем занимаюсь:**
-* Софт для Windows на Python (`CustomTkinter`) и автоматизация рутины
-* Telegram-боты (`aiogram`) и 3D-игры в браузере (`JavaScript` / `Three.js`)
-* Запуск локальных нейросетей (`Ollama`, `FLUX.1`)
+**What I do:**
+* Windows desktop tools in Python (`CustomTkinter`) & task automation
+* Telegram bots (`aiogram`) & 3D browser games (`JavaScript` / `Three.js`)
+* Running local LLMs & image models (`Ollama`, `FLUX.1`)
 
 <!--### 👋 Привет, я xatozz
 
